@@ -10,7 +10,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3CF'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3CF' target='_blank'>Visit blog</a>",
 				"name" : " Abyssinia Restaurant Teff"
 			}
 		}, {
@@ -23,7 +23,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/23/acquarello-bogenhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/23/acquarello-bogenhausen/' target='_blank' target='_blank'>Visit blog</a>",
 				"name" : " Acquarello"
 			}
 		}, {
@@ -36,7 +36,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4dQ'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4dQ' target='_blank'>Visit blog</a>",
 				"name" : " Hotel Vier Jahreszeiten – Adventsbrunch"
 			}
 		}, {
@@ -49,7 +49,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-hD'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-hD' target='_blank'>Visit blog</a>",
 				"name" : " Alex"
 			}
 		}, {
@@ -62,7 +62,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/19/alter-wirt-bayrische-kuche-ramersdorf/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/19/alter-wirt-bayrische-kuche-ramersdorf/' target='_blank'>Visit blog</a>",
 				"name" : " Alter Wirt"
 			}
 		}, {
@@ -75,7 +75,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/18/antica-trattoria-harlaching-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/18/antica-trattoria-harlaching-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Antica Trattoria"
 			}
 		}, {
@@ -88,7 +88,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3Jl\"'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3Jl\"' target='_blank'>Visit blog</a>",
 				"name" : " Asado Steakhouse"
 			}
 		}, {
@@ -101,7 +101,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-49a'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-49a' target='_blank'>Visit blog</a>",
 				"name" : " Asahi Sushi"
 			}
 		}, {
@@ -114,7 +114,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4eM'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4eM' target='_blank'>Visit blog</a>",
 				"name" : " Auenfischer"
 			}
 		}, {
@@ -127,7 +127,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/01/augustiner-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/01/augustiner-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Haidhauser Augustiner"
 			}
 		}, {
@@ -140,7 +140,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/02/augustiner-klosterwirt-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/02/augustiner-klosterwirt-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Augustiner Klosterwirt"
 			}
 		}, {
@@ -153,7 +153,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/25/augustiner-schwalbe-bayrische-kuche-schwanthalerhohe/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/25/augustiner-schwalbe-bayrische-kuche-schwanthalerhohe/' target='_blank'>Visit blog</a>",
 				"name" : " Augustiner Schwalbe bzw. jetzt HEIMAT FOOD"
 			}
 		}, {
@@ -166,7 +166,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/04/b3-burger-bar-nahe-sendlinger-tor-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/04/b3-burger-bar-nahe-sendlinger-tor-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " b3 Burger Bar"
 			}
 		}, {
@@ -179,7 +179,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/03/bachmaier-leopoldstrase-schwabing/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/03/bachmaier-leopoldstrase-schwabing/' target='_blank'>Visit blog</a>",
 				"name" : " Bachmaier"
 			}
 		}, {
@@ -192,7 +192,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/31/bamyan-narges-isarvorstadt-afghanisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/31/bamyan-narges-isarvorstadt-afghanisch/' target='_blank'>Visit blog</a>",
 				"name" : " Bamyan Narges"
 			}
 		}, {
@@ -205,7 +205,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/12/banyan-vietnamese-ludwigvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/12/banyan-vietnamese-ludwigvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Banyan"
 			}
 		}, {
@@ -218,7 +218,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/03/bmw-welt-bavarie-brasserie-terassen-opening-olympiapark-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/03/bmw-welt-bavarie-brasserie-terassen-opening-olympiapark-international/' target='_blank'>Visit blog</a>",
 				"name" : " BMW Welt – Bavarie Brasserie"
 			}
 		}, {
@@ -231,7 +231,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/24/beim-sedlmayr-nahe-viktualienmarkt-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/24/beim-sedlmayr-nahe-viktualienmarkt-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Beim Sedlmayr"
 			}
 		}, {
@@ -244,7 +244,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/12/belicious-burger-haidhausen-burger/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/12/belicious-burger-haidhausen-burger/' target='_blank'>Visit blog</a>",
 				"name" : " Belicious Burger"
 			}
 		}, {
@@ -257,7 +257,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-8x'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-8x' target='_blank'>Visit blog</a>",
 				"name" : " Berni´s Nudelbrett"
 			}
 		}, {
@@ -270,7 +270,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/05/bistro-andre-rottach-egern/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/05/bistro-andre-rottach-egern/' target='_blank'>Visit blog</a>",
 				"name" : " Bistro Andre"
 			}
 		}, {
@@ -283,7 +283,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/05/bistro-cameleon-jetzt-limone-franzose-am-sebastiansplatz/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/05/bistro-cameleon-jetzt-limone-franzose-am-sebastiansplatz/' target='_blank'>Visit blog</a>",
 				"name" : " Bistro Cameleon"
 			}
 		}, {
@@ -296,7 +296,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/restaurant-bayerisches-nationalmuseum-weinviertel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/restaurant-bayerisches-nationalmuseum-weinviertel/' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Bayerisches Nationalmuseum – bnm"
 			}
 		}, {
@@ -309,7 +309,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/18/bodega-dali-maxvorstadt-spanisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/18/bodega-dali-maxvorstadt-spanisch/' target='_blank'>Visit blog</a>",
 				"name" : " Bodega Dali"
 			}
 		}, {
@@ -322,7 +322,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/12/bohne-malz-marienplatz-oder-stachus-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/12/bohne-malz-marienplatz-oder-stachus-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Bohne und Malz"
 			}
 		}, {
@@ -335,7 +335,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5IN'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5IN' target='_blank'>Visit blog</a>",
 				"name" : " Broeding"
 			}
 		}, {
@@ -348,7 +348,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-43X'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-43X' target='_blank'>Visit blog</a>",
 				"name" : " BMB – Bruckmann´s Bar"
 			}
 		}, {
@@ -361,7 +361,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/25/burrito-company-augustenstrase-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/25/burrito-company-augustenstrase-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Burrito Company"
 			}
 		}, {
@@ -374,7 +374,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3V9'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3V9' target='_blank'>Visit blog</a>",
 				"name" : " busners"
 			}
 		}, {
@@ -387,7 +387,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/30/ca-ba-lu-lehel-burger/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/30/ca-ba-lu-lehel-burger/' target='_blank'>Visit blog</a>",
 				"name" : " Ca Ba Lu"
 			}
 		}, {
@@ -400,7 +400,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/02/cafe-am-beethovenplatz-2/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/02/cafe-am-beethovenplatz-2/' target='_blank'>Visit blog</a>",
 				"name" : " Café am Beethovenplatz"
 			}
 		}, {
@@ -413,7 +413,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/22/cafe-forum-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/22/cafe-forum-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Café Forum"
 			}
 		}, {
@@ -426,7 +426,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/14/cafe-haidhausen-rosenheimer-platz-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/14/cafe-haidhausen-rosenheimer-platz-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Café Haidhausen"
 			}
 		}, {
@@ -439,7 +439,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/02/cafe-haidi-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/02/cafe-haidi-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Café Haidi"
 			}
 		}, {
@@ -452,7 +452,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/06/cafe-jasmin-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/06/cafe-jasmin-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Café Jasmin"
 			}
 		}, {
@@ -465,7 +465,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/02/cafe-kunsthalle-5-hofe/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/02/cafe-kunsthalle-5-hofe/' target='_blank'>Visit blog</a>",
 				"name" : " Café Kunsthalle – 5 Höfe (U-Bahn Odeonsplatz)"
 			}
 		}, {
@@ -478,7 +478,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/25/cafe-lamar-isarvorstadt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/25/cafe-lamar-isarvorstadt-international/' target='_blank'>Visit blog</a>",
 				"name" : " Café L´Amar"
 			}
 		}, {
@@ -491,7 +491,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/22/cafe-lotti-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/22/cafe-lotti-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Café Lotti"
 			}
 		}, {
@@ -504,7 +504,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/30/cafe-luitpold-briennerstrase-odeonsplatz/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/30/cafe-luitpold-briennerstrase-odeonsplatz/' target='_blank'>Visit blog</a>",
 				"name" : " Café Luitpold"
 			}
 		}, {
@@ -517,7 +517,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3LX'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3LX' target='_blank'>Visit blog</a>",
 				"name" : " Cafe Luitpold"
 			}
 		}, {
@@ -530,7 +530,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/27/cafe-neuhausen-neuhausen-internationalcafe/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/27/cafe-neuhausen-neuhausen-internationalcafe/' target='_blank'>Visit blog</a>",
 				"name" : " Café Neuhausen"
 			}
 		}, {
@@ -543,7 +543,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/19/cafe-prinzregent-starnberg-cafe'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/19/cafe-prinzregent-starnberg-cafe' target='_blank'>Visit blog</a>",
 				"name" : " Café Prinzregent – Starnberg"
 			}
 		}, {
@@ -556,7 +556,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/09/22/cafe-voila-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/09/22/cafe-voila-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Café Voilá"
 			}
 		}, {
@@ -569,7 +569,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/02/calosta-altstadt-griechisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/02/calosta-altstadt-griechisch/' target='_blank'>Visit blog</a>",
 				"name" : " Calósta"
 			}
 		}, {
@@ -582,7 +582,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/31/catwalk-bogenhausen-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/31/catwalk-bogenhausen-international/' target='_blank'>Visit blog</a>",
 				"name" : " Catwalk"
 			}
 		}, {
@@ -595,7 +595,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/18/celebrita-wiener-platz-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/18/celebrita-wiener-platz-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Celebritá"
 			}
 		}, {
@@ -608,7 +608,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/18/cocosnuss-vietnamese-innenstadt-2/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/18/cocosnuss-vietnamese-innenstadt-2/' target='_blank'>Visit blog</a>",
 				"name" : " Cocosnuss"
 			}
 		}, {
@@ -621,7 +621,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/22/cole-porter-innenstadt-internationalcafe/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/22/cole-porter-innenstadt-internationalcafe/' target='_blank'>Visit blog</a>",
 				"name" : " Cole & Porter"
 			}
 		}, {
@@ -634,7 +634,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4gW'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4gW' target='_blank'>Visit blog</a>",
 				"name" : " Corretto"
 			}
 		}, {
@@ -647,7 +647,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/21/corso-mullerstrase-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/21/corso-mullerstrase-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Corso"
 			}
 		}, {
@@ -660,7 +660,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4Je'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4Je' target='_blank'>Visit blog</a>",
 				"name" : " Corso – Dachau"
 			}
 		}, {
@@ -673,7 +673,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/28/costa-smeralda-gruenwald-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/28/costa-smeralda-gruenwald-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Costa Smeralda"
 			}
 		}, {
@@ -686,7 +686,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/09/cyclo-vietnamesische-kuche-maxvorstadt-2/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/09/cyclo-vietnamesische-kuche-maxvorstadt-2/' target='_blank'>Visit blog</a>",
 				"name" : " Cyclo"
 			}
 		}, {
@@ -699,7 +699,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/23/das-lokal-schwabing-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/23/das-lokal-schwabing-international/' target='_blank'>Visit blog</a>",
 				"name" : " Das Lokal"
 			}
 		}, {
@@ -712,7 +712,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/05/dean-und-david-munchen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/05/dean-und-david-munchen/' target='_blank'>Visit blog</a>",
 				"name" : " Dean und David"
 			}
 		}, {
@@ -725,7 +725,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/15/eisdielebistro-del-fiore-isarvorstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/15/eisdielebistro-del-fiore-isarvorstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Del Fiore"
 			}
 		}, {
@@ -738,7 +738,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/13/deininger-weiher-straslach-dingharting/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/13/deininger-weiher-straslach-dingharting/' target='_blank'>Visit blog</a>",
 				"name" : " Waldhaus Deininger Weiher"
 			}
 		}, {
@@ -751,7 +751,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/19/destina-innenstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/19/destina-innenstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Destina"
 			}
 		}, {
@@ -764,7 +764,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/15/dhaba/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/15/dhaba/' target='_blank'>Visit blog</a>",
 				"name" : " Dhaba"
 			}
 		}, {
@@ -777,7 +777,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/17/dinzler-kaffeerosterei-irschenberg/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/17/dinzler-kaffeerosterei-irschenberg/' target='_blank'>Visit blog</a>",
 				"name" : " Dinzler Irschenberg"
 			}
 		}, {
@@ -790,7 +790,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/30/eclipse-grill-bar-schwabing-israelisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/30/eclipse-grill-bar-schwabing-israelisch/' target='_blank'>Visit blog</a>",
 				"name" : " Eclipse Grill Bar"
 			}
 		}, {
@@ -803,7 +803,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/04/04/das-edelweiss/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/04/04/das-edelweiss/' target='_blank'>Visit blog</a>",
 				"name" : " Das Edelweiß"
 			}
 		}, {
@@ -816,7 +816,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/07/elia-herzogstrase-schwabing/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/07/elia-herzogstrase-schwabing/' target='_blank'>Visit blog</a>",
 				"name" : " Elia"
 			}
 		}, {
@@ -829,7 +829,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/13/el-perro-y-el-griego-haidhausen-spanisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/13/el-perro-y-el-griego-haidhausen-spanisch/' target='_blank'>Visit blog</a>",
 				"name" : " El Perro Y El Griego"
 			}
 		}, {
@@ -842,7 +842,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/15/emiko/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/15/emiko/' target='_blank'>Visit blog</a>",
 				"name" : " Emiko"
 			}
 		}, {
@@ -855,7 +855,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5Lh'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5Lh' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Bayerisches Nationalmuseum – bnm"
 			}
 		}, {
@@ -868,7 +868,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3Hv'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3Hv' target='_blank'>Visit blog</a>",
 				"name" : " Esskapade"
 			}
 		}, {
@@ -881,7 +881,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/24/fabricca-altstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/24/fabricca-altstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Fabricca"
 			}
 		}, {
@@ -894,7 +894,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/23/fuchs-fiedler/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/23/fuchs-fiedler/' target='_blank'>Visit blog</a>",
 				"name" : " Fiedler & Fuchs"
 			}
 		}, {
@@ -907,7 +907,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/12/forsthaus_woernbrunn/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/12/forsthaus_woernbrunn/' target='_blank'>Visit blog</a>",
 				"name" : " Forsthaus Wörnbrunn"
 			}
 		}, {
@@ -920,7 +920,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/freisinger-hof-weinviertel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/freisinger-hof-weinviertel/' target='_blank'>Visit blog</a>",
 				"name" : " Freisinger Hof"
 			}
 		}, {
@@ -933,7 +933,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/24/ganesha-inder-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/24/ganesha-inder-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Ganesha"
 			}
 		}, {
@@ -946,7 +946,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4ch'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4ch' target='_blank'>Visit blog</a>",
 				"name" : " Gasthaus Fischerrosl"
 			}
 		}, {
@@ -959,7 +959,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/14/gasthaus-zur-post-unterhaching-bayerisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/14/gasthaus-zur-post-unterhaching-bayerisch/' target='_blank'>Visit blog</a>",
 				"name" : " Gasthaus zur Post"
 			}
 		}, {
@@ -972,7 +972,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/11/gasthof-bauer-feldkirchen-bayerisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/11/gasthof-bauer-feldkirchen-bayerisch/' target='_blank'>Visit blog</a>",
 				"name" : " Gasthof Bauer – Feldkirchen"
 			}
 		}, {
@@ -985,7 +985,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/11/glockenbach-international-hackenviertel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/11/glockenbach-international-hackenviertel/' target='_blank'>Visit blog</a>",
 				"name" : " Glockenbach"
 			}
 		}, {
@@ -998,7 +998,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/04/11/goa/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/04/11/goa/' target='_blank'>Visit blog</a>",
 				"name" : " Goa"
 			}
 		}, {
@@ -1011,7 +1011,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/31/golden-twenties-schwabing-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/31/golden-twenties-schwabing-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Golden Twenties"
 			}
 		}, {
@@ -1024,7 +1024,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4AV'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4AV' target='_blank'>Visit blog</a>",
 				"name" : " GOP Varieté München"
 			}
 		}, {
@@ -1037,7 +1037,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/13/grano-sebastiansplatz/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/13/grano-sebastiansplatz/' target='_blank'>Visit blog</a>",
 				"name" : " Grano"
 			}
 		}, {
@@ -1050,7 +1050,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5XE'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5XE' target='_blank'>Visit blog</a>",
 				"name" : " Sophia´s Restaurant & Bar"
 			}
 		}, {
@@ -1063,7 +1063,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/22/gruenwalder-einkehr-gruenwald-bayerisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/22/gruenwalder-einkehr-gruenwald-bayerisch/' target='_blank'>Visit blog</a>",
 				"name" : " Grünwalder Einkehr"
 			}
 		}, {
@@ -1076,7 +1076,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5Lf'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5Lf' target='_blank'>Visit blog</a>",
 				"name" : " Halali"
 			}
 		}, {
@@ -1089,7 +1089,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/09/happy-quynh-vietnamese-ottobrunn/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/09/happy-quynh-vietnamese-ottobrunn/' target='_blank'>Visit blog</a>",
 				"name" : " Happy Quynh"
 			}
 		}, {
@@ -1102,7 +1102,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/06/22/harlachinger-jagdschloessl/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/06/22/harlachinger-jagdschloessl/' target='_blank'>Visit blog</a>",
 				"name" : " Harlachinger Jagdschlössl"
 			}
 		}, {
@@ -1115,7 +1115,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5hB'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5hB' target='_blank'>Visit blog</a>",
 				"name" : " Harlachinger Jagdschlössl"
 			}
 		}, {
@@ -1128,7 +1128,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/09/heide-volm-planegg'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/09/heide-volm-planegg' target='_blank'>Visit blog</a>",
 				"name" : " Heide Volm"
 			}
 		}, {
@@ -1141,7 +1141,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/26/henrys-deli-elisenhofmaxvorstadt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/26/henrys-deli-elisenhofmaxvorstadt-international/' target='_blank'>Visit blog</a>",
 				"name" : " Henrys Deli"
 			}
 		}, {
@@ -1154,7 +1154,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/21/hey-luigi-isarvorstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/21/hey-luigi-isarvorstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Hey Luigi"
 			}
 		}, {
@@ -1167,7 +1167,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/18/hofkucherl-bayrische-kuche-forstinning/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/18/hofkucherl-bayrische-kuche-forstinning/' target='_blank'>Visit blog</a>",
 				"name" : " Hofkücherl – Forstinning"
 			}
 		}, {
@@ -1180,7 +1180,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/31/holy-burger-grill-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/31/holy-burger-grill-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Holy Burger Grill"
 			}
 		}, {
@@ -1193,7 +1193,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/18/hostaria-ro-e-buni/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/18/hostaria-ro-e-buni/' target='_blank'>Visit blog</a>",
 				"name" : " Hostaria Rò e Bunì"
 			}
 		}, {
@@ -1206,7 +1206,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/26/hufnagel-pfanzeltplatz-altperlach/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/26/hufnagel-pfanzeltplatz-altperlach/' target='_blank'>Visit blog</a>",
 				"name" : " Hufnagel"
 			}
 		}, {
@@ -1219,7 +1219,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-49a'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-49a' target='_blank'>Visit blog</a>",
 				"name" : " Asahi Sushi"
 			}
 		}, {
@@ -1232,7 +1232,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/14/hungriges-herz-isarvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/14/hungriges-herz-isarvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Hungriges Herz"
 			}
 		}, {
@@ -1245,7 +1245,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/09/28/il-cigno-ristorante-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/09/28/il-cigno-ristorante-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Il Cigno Ristorante und Pizzeria"
 			}
 		}, {
@@ -1258,7 +1258,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-48z'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-48z' target='_blank'>Visit blog</a>",
 				"name" : " Il Mulino"
 			}
 		}, {
@@ -1271,7 +1271,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/09/il-ruscello-pfanzeltplatz-altperlach/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/09/il-ruscello-pfanzeltplatz-altperlach/' target='_blank'>Visit blog</a>",
 				"name" : " Il Ruscello"
 			}
 		}, {
@@ -1284,7 +1284,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-50s'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-50s' target='_blank'>Visit blog</a>",
 				"name" : " Isartaler Brauhaus"
 			}
 		}, {
@@ -1297,7 +1297,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/01/jade-chinese-berg-am-laim/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/01/jade-chinese-berg-am-laim/' target='_blank'>Visit blog</a>",
 				"name" : " Jade – Chinese"
 			}
 		}, {
@@ -1310,7 +1310,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/s4w7zh-jaipur'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/s4w7zh-jaipur' target='_blank'>Visit blog</a>",
 				"name" : " Jaipur"
 			}
 		}, {
@@ -1323,7 +1323,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/04/20/jin/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/04/20/jin/' target='_blank'>Visit blog</a>",
 				"name" : " Jin"
 			}
 		}, {
@@ -1336,7 +1336,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/06/joe-penas-innenstadt-mexikanisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/06/joe-penas-innenstadt-mexikanisch/' target='_blank'>Visit blog</a>",
 				"name" : " Joe Pena´s"
 			}
 		}, {
@@ -1349,7 +1349,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/03/kim-sang/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/03/kim-sang/' target='_blank'>Visit blog</a>",
 				"name" : " Kim Sang"
 			}
 		}, {
@@ -1362,7 +1362,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/09/kleines-kameel-barcafe-altstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/09/kleines-kameel-barcafe-altstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Kleines Kameel"
 			}
 		}, {
@@ -1375,7 +1375,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5Aw'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5Aw' target='_blank'>Visit blog</a>",
 				"name" : " Klosterschenke Scheyern"
 			}
 		}, {
@@ -1388,7 +1388,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/16/koi-altstadt-japanisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/16/koi-altstadt-japanisch/' target='_blank'>Visit blog</a>",
 				"name" : " Koi"
 			}
 		}, {
@@ -1401,7 +1401,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/20/konstantin-friends-isarvorstadt-griechisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/20/konstantin-friends-isarvorstadt-griechisch/' target='_blank'>Visit blog</a>",
 				"name" : " Konstantin & friends"
 			}
 		}, {
@@ -1414,7 +1414,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/kork-weinbar-weinviertel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/kork-weinbar-weinviertel/' target='_blank'>Visit blog</a>",
 				"name" : " Kork Weinbar"
 			}
 		}, {
@@ -1427,7 +1427,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/09/28/kreillers-berg-am-laim/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/09/28/kreillers-berg-am-laim/' target='_blank'>Visit blog</a>",
 				"name" : " Kreillers"
 			}
 		}, {
@@ -1440,7 +1440,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/31/buffet-kull-bar/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/31/buffet-kull-bar/' target='_blank'>Visit blog</a>",
 				"name" : " Buffet Kull Bar"
 			}
 		}, {
@@ -1453,7 +1453,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/03/la-baracca-altstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/03/la-baracca-altstadt/' target='_blank'>Visit blog</a>",
 				"name" : " La Baracca"
 			}
 		}, {
@@ -1466,7 +1466,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/13/la-cicchetteria-italienische-bar-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/13/la-cicchetteria-italienische-bar-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " La Cicchetteria – italienische Bar"
 			}
 		}, {
@@ -1479,7 +1479,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/05/laden-turkenstrase-schwabing/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/05/laden-turkenstrase-schwabing/' target='_blank'>Visit blog</a>",
 				"name" : " Laden"
 			}
 		}, {
@@ -1492,7 +1492,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/03/lago-di-garda-isarvorstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/03/lago-di-garda-isarvorstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Lago di Garda"
 			}
 		}, {
@@ -1505,7 +1505,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5Pn'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5Pn' target='_blank'>Visit blog</a>",
 				"name" : " Landersdorfer und Innerhofer"
 			}
 		}, {
@@ -1518,7 +1518,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/28/langelo-haidhausen-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/28/langelo-haidhausen-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " L´Angolo"
 			}
 		}, {
@@ -1531,7 +1531,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3Tm'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3Tm' target='_blank'>Visit blog</a>",
 				"name" : " La Piazza"
 			}
 		}, {
@@ -1544,7 +1544,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/08/le-florida-schwabing-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/08/le-florida-schwabing-international/' target='_blank'>Visit blog</a>",
 				"name" : " Le Florida"
 			}
 		}, {
@@ -1557,7 +1557,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/15/la-kaz-schwanthalerhoehe-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/15/la-kaz-schwanthalerhoehe-international/' target='_blank'>Visit blog</a>",
 				"name" : " La Kaz"
 			}
 		}, {
@@ -1570,7 +1570,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4Vc'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4Vc' target='_blank'>Visit blog</a>",
 				"name" : " Laurus – Gräfelfing"
 			}
 		}, {
@@ -1583,7 +1583,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/06/lezizel-manti-sendling-tuerkisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/06/lezizel-manti-sendling-tuerkisch/' target='_blank'>Visit blog</a>",
 				"name" : " Lezizel Manti – Türkische Teigtaschen"
 			}
 		}, {
@@ -1596,7 +1596,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/little-wolf-weinviertel-oesterreich/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/little-wolf-weinviertel-oesterreich/' target='_blank'>Visit blog</a>",
 				"name" : " Little Wolf"
 			}
 		}, {
@@ -1609,7 +1609,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4dR'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4dR' target='_blank'>Visit blog</a>",
 				"name" : " Hotel Vier Jahreszeiten Kempinski – Silvester Lobbyparty"
 			}
 		}, {
@@ -1622,7 +1622,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/10/la-sputino-italiener-schwabing-west/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/10/la-sputino-italiener-schwabing-west/' target='_blank'>Visit blog</a>",
 				"name" : " Lo Spuntino"
 			}
 		}, {
@@ -1635,7 +1635,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/08/laurin-restaurant-cafe-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/08/laurin-restaurant-cafe-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Café / Restaurant Laurin"
 			}
 		}, {
@@ -1648,7 +1648,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/29/la-vecchia-masseria-italiener-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/29/la-vecchia-masseria-italiener-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " La Vecchia Masseria"
 			}
 		}, {
@@ -1661,7 +1661,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/26/le-du-schwabing-asiatisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/26/le-du-schwabing-asiatisch/' target='_blank'>Visit blog</a>",
 				"name" : " LeDu"
 			}
 		}, {
@@ -1674,7 +1674,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/14/leib-und-seele-lehel-bayerisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/14/leib-und-seele-lehel-bayerisch/' target='_blank'>Visit blog</a>",
 				"name" : " Leib und Seele"
 			}
 		}, {
@@ -1687,7 +1687,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/15/le-meridien-innenstadt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/15/le-meridien-innenstadt-international/' target='_blank'>Visit blog</a>",
 				"name" : " Le Méridien"
 			}
 		}, {
@@ -1700,7 +1700,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/06/lucky-who-brienner-strase-altstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/06/lucky-who-brienner-strase-altstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Lucky Who"
 			}
 		}, {
@@ -1713,7 +1713,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/12/mamasita-mexikanisch-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/12/mamasita-mexikanisch-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Mamasita"
 			}
 		}, {
@@ -1726,7 +1726,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/17/mangostin-asiate-thalkirchen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/17/mangostin-asiate-thalkirchen/' target='_blank'>Visit blog</a>",
 				"name" : " Mangostin"
 			}
 		}, {
@@ -1739,7 +1739,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/05/masters-home-italienisches-8-gange-menu-viktualienmarkt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/05/masters-home-italienisches-8-gange-menu-viktualienmarkt/' target='_blank'>Visit blog</a>",
 				"name" : " Master´s Home"
 			}
 		}, {
@@ -1752,7 +1752,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-464'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-464' target='_blank'>Visit blog</a>",
 				"name" : " Matsuhisa Munich und Bar31 (Mandarin Oriental, Munich)"
 			}
 		}, {
@@ -1765,7 +1765,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4cN'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4cN' target='_blank'>Visit blog</a>",
 				"name" : " meat in bun"
 			}
 		}, {
@@ -1778,7 +1778,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/09/medici-neuhausen-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/09/medici-neuhausen-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Medici"
 			}
 		}, {
@@ -1791,7 +1791,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-47Q'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-47Q' target='_blank'>Visit blog</a>",
 				"name" : " Mehlfeld´s"
 			}
 		}, {
@@ -1804,7 +1804,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/04/menterschwaige-harlaching-bayerischbiergarten/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/04/menterschwaige-harlaching-bayerischbiergarten/' target='_blank'>Visit blog</a>",
 				"name" : " Menterschwaige"
 			}
 		}, {
@@ -1817,7 +1817,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/28/meissners-bogenhausen-international'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/28/meissners-bogenhausen-international' target='_blank'>Visit blog</a>",
 				"name" : " Meissners"
 			}
 		}, {
@@ -1830,7 +1830,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-44C'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-44C' target='_blank'>Visit blog</a>",
 				"name" : " Menzingers"
 			}
 		}, {
@@ -1843,7 +1843,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/22/michaeligarten-perlach-bayerisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/22/michaeligarten-perlach-bayerisch/' target='_blank'>Visit blog</a>",
 				"name" : " Michaeligarten – Restaurant & Biergarten"
 			}
 		}, {
@@ -1856,7 +1856,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/16/miss-lillys-au-cafe-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/16/miss-lillys-au-cafe-international/' target='_blank'>Visit blog</a>",
 				"name" : " Miss Lilly´s"
 			}
 		}, {
@@ -1869,7 +1869,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/20/moarwirt-bayerische-kuche-bei-bad-tolz/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/20/moarwirt-bayerische-kuche-bei-bad-tolz/' target='_blank'>Visit blog</a>",
 				"name" : " Moarwirt"
 			}
 		}, {
@@ -1882,7 +1882,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/13/mugolone-neuhausen-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/13/mugolone-neuhausen-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Mugolone"
 			}
 		}, {
@@ -1895,7 +1895,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-2tC'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-2tC' target='_blank'>Visit blog</a>",
 				"name" : " My Good Greens"
 			}
 		}, {
@@ -1908,7 +1908,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/20/myra-turkisches-restaurant-sendling/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/20/myra-turkisches-restaurant-sendling/' target='_blank'>Visit blog</a>",
 				"name" : " Myra"
 			}
 		}, {
@@ -1921,7 +1921,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/22/mythos-mediterrane-kuche-unterhaching/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/22/mythos-mediterrane-kuche-unterhaching/' target='_blank'>Visit blog</a>",
 				"name" : " Mythos"
 			}
 		}, {
@@ -1934,7 +1934,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/13/nam-nam-vietnamese-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/13/nam-nam-vietnamese-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Nam Nam"
 			}
 		}, {
@@ -1947,7 +1947,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/23/nefeli-ramersdorf-griechisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/23/nefeli-ramersdorf-griechisch/' target='_blank'>Visit blog</a>",
 				"name" : " Nefeli"
 			}
 		}, {
@@ -1960,7 +1960,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/19/nero-pizza-grill/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/19/nero-pizza-grill/' target='_blank'>Visit blog</a>",
 				"name" : " nero pizza & grill"
 			}
 		}, {
@@ -1973,7 +1973,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/07/nomiya-bayrischer-japaner-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/07/nomiya-bayrischer-japaner-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Nomiya"
 			}
 		}, {
@@ -1986,7 +1986,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/17/nuovo-casale-italiener-bogenhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/17/nuovo-casale-italiener-bogenhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Nuovo Casale"
 			}
 		}, {
@@ -1999,7 +1999,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/10/gasthof-oberbraeu-holzkirchen-bayerisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/10/gasthof-oberbraeu-holzkirchen-bayerisch/' target='_blank'>Visit blog</a>",
 				"name" : " Gasthof Oberbräu"
 			}
 		}, {
@@ -2012,7 +2012,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/22/occam-deli-schwabing-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/22/occam-deli-schwabing-international/' target='_blank'>Visit blog</a>",
 				"name" : " Occam Deli"
 			}
 		}, {
@@ -2025,7 +2025,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/18/oh-julia-sendlinger-strase-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/18/oh-julia-sendlinger-strase-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Oh Julia!"
 			}
 		}, {
@@ -2038,7 +2038,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/28/restaurant-olivs-4-jahreszeiten-starnberg/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/01/28/restaurant-olivs-4-jahreszeiten-starnberg/' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Oliv´s"
 			}
 		}, {
@@ -2051,7 +2051,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5OL'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5OL' target='_blank'>Visit blog</a>",
 				"name" : " Österia"
 			}
 		}, {
@@ -2064,7 +2064,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/07/panther-grill-schwabing-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/07/panther-grill-schwabing-international/' target='_blank'>Visit blog</a>",
 				"name" : " Panther Grill"
 			}
 		}, {
@@ -2077,7 +2077,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/21/parkcafe-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/21/parkcafe-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Parkcafé"
 			}
 		}, {
@@ -2090,7 +2090,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/27/pasinger_pumpenwerk/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/27/pasinger_pumpenwerk/' target='_blank'>Visit blog</a>",
 				"name" : " Pasinger Pumpenwerk"
 			}
 		}, {
@@ -2103,7 +2103,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/08/paulaner-braeuhaus-ludwigvorstadt-bayerisch'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/08/paulaner-braeuhaus-ludwigvorstadt-bayerisch' target='_blank'>Visit blog</a>",
 				"name" : " Paulaner Bräuhaus"
 			}
 		}, {
@@ -2116,7 +2116,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/29/pepe-nero-schwabing-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/29/pepe-nero-schwabing-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Pepenero Ristorante"
 			}
 		}, {
@@ -2129,7 +2129,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/04/pepperworld-hotshop/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/04/pepperworld-hotshop/' target='_blank'>Visit blog</a>",
 				"name" : " PEPPERWORLD HOT SHOP"
 			}
 		}, {
@@ -2142,7 +2142,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/13/pescheria/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/13/pescheria/' target='_blank'>Visit blog</a>",
 				"name" : " Pescheria"
 			}
 		}, {
@@ -2155,7 +2155,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/28/piacere-nuovo-neuhausen-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/28/piacere-nuovo-neuhausen-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Piacere Nuovo"
 			}
 		}, {
@@ -2168,7 +2168,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/01/pressbar-saefte-detoxkur'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/01/pressbar-saefte-detoxkur' target='_blank'>Visit blog</a>",
 				"name" : " Pressbar"
 			}
 		}, {
@@ -2181,7 +2181,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3Di'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3Di' target='_blank'>Visit blog</a>",
 				"name" : " Primafila"
 			}
 		}, {
@@ -2194,7 +2194,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5IP'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5IP' target='_blank'>Visit blog</a>",
 				"name" : " Prinzipal"
 			}
 		}, {
@@ -2207,7 +2207,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/10/pschorr-munchen-viktualienmarkt-schrannenhalle/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/10/pschorr-munchen-viktualienmarkt-schrannenhalle/' target='_blank'>Visit blog</a>",
 				"name" : " Pschorr München"
 			}
 		}, {
@@ -2220,7 +2220,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/03/punto-divino-altstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/09/03/punto-divino-altstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Punto DiVino"
 			}
 		}, {
@@ -2233,7 +2233,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3ge'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3ge' target='_blank'>Visit blog</a>",
 				"name" : " Quan Com"
 			}
 		}, {
@@ -2246,7 +2246,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/12/quattro-tivoli/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/12/quattro-tivoli/' target='_blank'>Visit blog</a>",
 				"name" : " Quattro Tavoli"
 			}
 		}, {
@@ -2259,7 +2259,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/13/rabenwirt-pullach-im-isartal/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/13/rabenwirt-pullach-im-isartal/' target='_blank'>Visit blog</a>",
 				"name" : " Rabenwirt Pullach"
 			}
 		}, {
@@ -2272,7 +2272,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/22/refettorio/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/22/refettorio/' target='_blank'>Visit blog</a>",
 				"name" : " Refettorio"
 			}
 		}, {
@@ -2285,7 +2285,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/05/regionalmarkt-muenchen-regionale-lebensmittel-lieferservice/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/05/regionalmarkt-muenchen-regionale-lebensmittel-lieferservice/' target='_blank'>Visit blog</a>",
 				"name" : " Regionaler Markt München"
 			}
 		}, {
@@ -2298,7 +2298,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/12/reitschule-lehel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/12/reitschule-lehel/' target='_blank'>Visit blog</a>",
 				"name" : " Café Reitschule"
 			}
 		}, {
@@ -2311,7 +2311,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5Pt'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5Pt' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Ebert"
 			}
 		}, {
@@ -2324,7 +2324,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/02/16/kleines-max/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/02/16/kleines-max/' target='_blank'>Visit blog</a>",
 				"name" : " Kleines Max – Restaurant im Hotel Maximilian"
 			}
 		}, {
@@ -2337,7 +2337,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/09/restaurant-kleinschmecker-innenstadt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/09/restaurant-kleinschmecker-innenstadt-international/' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Kleinschmecker"
 			}
 		}, {
@@ -2350,7 +2350,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5C5'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5C5' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Pfaffenwinkel"
 			}
 		}, {
@@ -2363,7 +2363,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/24/restaurant-portugal-haidhausen-portugiesisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/24/restaurant-portugal-haidhausen-portugiesisch/' target='_blank'>Visit blog</a>",
 				"name" : " Restaurant Portugal"
 			}
 		}, {
@@ -2376,7 +2376,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/03/rigoletto-nordschwabing-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/08/03/rigoletto-nordschwabing-international/' target='_blank'>Visit blog</a>",
 				"name" : " Rigoletto"
 			}
 		}, {
@@ -2389,7 +2389,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4CP'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4CP' target='_blank'>Visit blog</a>",
 				"name" : " Ristorante Martinelli"
 			}
 		}, {
@@ -2402,7 +2402,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/29/riva-tal-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/29/riva-tal-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Riva"
 			}
 		}, {
@@ -2415,7 +2415,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3NM'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3NM' target='_blank'>Visit blog</a>",
 				"name" : " Romans"
 			}
 		}, {
@@ -2428,7 +2428,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/02/09/rothof/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/02/09/rothof/' target='_blank'>Visit blog</a>",
 				"name" : " Rothof"
 			}
 		}, {
@@ -2441,7 +2441,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4jV'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4jV' target='_blank'>Visit blog</a>",
 				"name" : " The Charles Hotel, Munich"
 			}
 		}, {
@@ -2454,7 +2454,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/08/salotto-lehel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/08/salotto-lehel/' target='_blank'>Visit blog</a>",
 				"name" : " Salotto"
 			}
 		}, {
@@ -2467,7 +2467,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/24/samrat-inder-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/24/samrat-inder-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Samrat"
 			}
 		}, {
@@ -2480,7 +2480,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/22/sangeet-indisches-restaurant-altstadtinnenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/22/sangeet-indisches-restaurant-altstadtinnenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Sangeet"
 			}
 		}, {
@@ -2493,7 +2493,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/22/santo-anger-pizzaria-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/22/santo-anger-pizzaria-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Santo Anger"
 			}
 		}, {
@@ -2506,7 +2506,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/11/sasou-japanische-suppen-marienplatz/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/11/sasou-japanische-suppen-marienplatz/' target='_blank'>Visit blog</a>",
 				"name" : " Sasou"
 			}
 		}, {
@@ -2519,7 +2519,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/27/schall-rauch-schwabing/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/27/schall-rauch-schwabing/' target='_blank'>Visit blog</a>",
 				"name" : " Schall und Rauch"
 			}
 		}, {
@@ -2532,7 +2532,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/04/schlosscafe-im-palmenhaus-schloss-nymphenburg/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/04/schlosscafe-im-palmenhaus-schloss-nymphenburg/' target='_blank'>Visit blog</a>",
 				"name" : " Schlosscafé im Palmenhaus"
 			}
 		}, {
@@ -2545,7 +2545,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/12/schubecks-orlando-am-platzl-innenstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/12/schubecks-orlando-am-platzl-innenstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Schubeck´s Orlando"
 			}
 		}, {
@@ -2558,7 +2558,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5II'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5II' target='_blank'>Visit blog</a>",
 				"name" : " Schwarzreiter"
 			}
 		}, {
@@ -2571,7 +2571,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5no'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5no' target='_blank'>Visit blog</a>",
 				"name" : " Schweiger Brauhaus"
 			}
 		}, {
@@ -2584,7 +2584,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/26/seerestaurant-st-alban-ammersee-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/26/seerestaurant-st-alban-ammersee-international/' target='_blank'>Visit blog</a>",
 				"name" : " Seerestaurant St. Alban"
 			}
 		}, {
@@ -2597,7 +2597,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5uv'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5uv' target='_blank'>Visit blog</a>",
 				"name" : " Shami"
 			}
 		}, {
@@ -2610,7 +2610,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3mI'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3mI' target='_blank'>Visit blog</a>",
 				"name" : " So.Cal"
 			}
 		}, {
@@ -2623,7 +2623,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5yE'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5yE' target='_blank'>Visit blog</a>",
 				"name" : " Sophia´s Restaurant & Bar"
 			}
 		}, {
@@ -2636,7 +2636,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-4aa'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-4aa' target='_blank'>Visit blog</a>",
 				"name" : " Speisemeisterei La Trattoria"
 			}
 		}, {
@@ -2649,7 +2649,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/10/spezlwirtschaft-altstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/02/10/spezlwirtschaft-altstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Spezlwirtschaft"
 			}
 		}, {
@@ -2662,7 +2662,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/03/spicery-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/03/03/spicery-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Spicery"
 			}
 		}, {
@@ -2675,7 +2675,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/18/sunny-food/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/01/18/sunny-food/' target='_blank'>Visit blog</a>",
 				"name" : " Sunny Food – Green Smoothies"
 			}
 		}, {
@@ -2688,7 +2688,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/05/surbahar-indische-kuche-haidhausen-jetzt-delhi-palace/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/05/surbahar-indische-kuche-haidhausen-jetzt-delhi-palace/' target='_blank'>Visit blog</a>",
 				"name" : " Shalimar"
 			}
 		}, {
@@ -2701,7 +2701,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/27/sushi-cent-japaner-haidhausen/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/27/sushi-cent-japaner-haidhausen/' target='_blank'>Visit blog</a>",
 				"name" : " Sushi Cent"
 			}
 		}, {
@@ -2714,7 +2714,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/07/sushi-express-bestellservice-schwabing/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/07/sushi-express-bestellservice-schwabing/' target='_blank'>Visit blog</a>",
 				"name" : " Sushi Express"
 			}
 		}, {
@@ -2727,7 +2727,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/17/tapa-gallo-schwabing-spanisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/17/tapa-gallo-schwabing-spanisch/' target='_blank'>Visit blog</a>",
 				"name" : " Tapa Gallo"
 			}
 		}, {
@@ -2740,7 +2740,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/16/taverna-del-sud-italiener-lehel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/16/taverna-del-sud-italiener-lehel/' target='_blank'>Visit blog</a>",
 				"name" : " Taverna del Sud"
 			}
 		}, {
@@ -2753,7 +2753,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/15/thalassa-sendling-griechisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/15/thalassa-sendling-griechisch/' target='_blank'>Visit blog</a>",
 				"name" : " Thalassa"
 			}
 		}, {
@@ -2766,7 +2766,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/20/theresa-maxvorstadt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/05/20/theresa-maxvorstadt-international/' target='_blank'>Visit blog</a>",
 				"name" : " Theresa Grill – Bar"
 			}
 		}, {
@@ -2779,7 +2779,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3WW'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3WW' target='_blank'>Visit blog</a>",
 				"name" : " The Blunch Kitchen"
 			}
 		}, {
@@ -2792,7 +2792,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/19/caribbean-embassy-schwabing-karibisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/11/19/caribbean-embassy-schwabing-karibisch/' target='_blank'>Visit blog</a>",
 				"name" : " The Caribbean Embassy – TCE"
 			}
 		}, {
@@ -2805,7 +2805,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/14/the-victorian-house-viktualienmarkt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/14/the-victorian-house-viktualienmarkt-international/' target='_blank'>Visit blog</a>",
 				"name" : " The Victorian House"
 			}
 		}, {
@@ -2818,7 +2818,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-3VY'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-3VY' target='_blank'>Visit blog</a>",
 				"name" : " Trattoria Lindengarten"
 			}
 		}, {
@@ -2831,7 +2831,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/12/tresznjewski-theresienstrase-maxvorstadt/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/12/12/tresznjewski-theresienstrase-maxvorstadt/' target='_blank'>Visit blog</a>",
 				"name" : " Tresznjewski"
 			}
 		}, {
@@ -2844,7 +2844,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/19/undosa-starnberg-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/03/19/undosa-starnberg-international/' target='_blank'>Visit blog</a>",
 				"name" : " Undosa"
 			}
 		}, {
@@ -2857,7 +2857,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-1uE'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-1uE' target='_blank'>Visit blog</a>",
 				"name" : " Upper Eat Side"
 			}
 		}, {
@@ -2870,7 +2870,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/14/va-bene-altstadt-italienisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/14/va-bene-altstadt-italienisch/' target='_blank'>Visit blog</a>",
 				"name" : " Va Bene"
 			}
 		}, {
@@ -2883,7 +2883,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/22/viamala-lindau-bodensee/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/11/22/viamala-lindau-bodensee/' target='_blank'>Visit blog</a>",
 				"name" : " Viamala"
 			}
 		}, {
@@ -2896,7 +2896,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/11/vib-grill-lounge-haidhausen-brasilianisch/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/06/11/vib-grill-lounge-haidhausen-brasilianisch/' target='_blank'>Visit blog</a>",
 				"name" : " VIB Grill & Lounge"
 			}
 		}, {
@@ -2909,7 +2909,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/06/volkskuche-maxvorstadt-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/06/volkskuche-maxvorstadt-international/' target='_blank'>Visit blog</a>",
 				"name" : " Volksküche"
 			}
 		}, {
@@ -2922,7 +2922,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/05/waldfee-schwabing-international/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/04/05/waldfee-schwabing-international/' target='_blank'>Visit blog</a>",
 				"name" : " Waldfee"
 			}
 		}, {
@@ -2935,7 +2935,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/31/wieners/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/12/31/wieners/' target='_blank'>Visit blog</a>",
 				"name" : " Wiener´s"
 			}
 		}, {
@@ -2948,7 +2948,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/wirtshaus-am-bavariapark-weinviertel/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/alle/wirtshaus-am-bavariapark-weinviertel/' target='_blank'>Visit blog</a>",
 				"name" : " Wirtshaus am Bavariapark"
 			}
 		}, {
@@ -2961,7 +2961,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://wp.me/p4w7zh-5sX'>Visit blog</a>",
+				"link" : "<a href='http://wp.me/p4w7zh-5sX' target='_blank'>Visit blog</a>",
 				"name" : " Wirtshaus im Oberbräu"
 			}
 		}, {
@@ -2974,7 +2974,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/31/wirtshaus-zur-brezn-bayrisch-leopoldstrase'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/31/wirtshaus-zur-brezn-bayrisch-leopoldstrase' target='_blank'>Visit blog</a>",
 				"name" : " Wirtshaus zur Brez´n"
 			}
 		}, {
@@ -2987,7 +2987,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/17/woellsteins-desserthaus-schwabing-kursangebot'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/10/17/woellsteins-desserthaus-schwabing-kursangebot' target='_blank'>Visit blog</a>",
 				"name" : " Wöllsteins Desserthaus"
 			}
 		}, {
@@ -3000,7 +3000,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/27/zeitgeist-schwabing/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2013/10/27/zeitgeist-schwabing/' target='_blank'>Visit blog</a>",
 				"name" : " Zeitgeist"
 			}
 		}, {
@@ -3013,7 +3013,7 @@
 			},
 			"type" : "Feature",
 			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/17/zooziez/'>Visit blog</a>",
+				"link" : "<a href='http://essengehenistaucheinhobby.de/2014/07/17/zooziez/' target='_blank'>Visit blog</a>",
 				"name" : " Zoozie´z"
 			}
 		}
