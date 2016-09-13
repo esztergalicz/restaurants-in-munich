@@ -2123,19 +2123,6 @@
 			"geometry" : {
 				"type" : "Point",
 				"coordinates" : [
-					8.87706766397999,
-					53.0191988
-				]
-			},
-			"type" : "Feature",
-			"properties" : {
-				"link" : "<a href='http://essengehenistaucheinhobby.de/2015/05/04/pepperworld-hotshop/' target='_blank'>Visit blog</a>",
-				"name" : " PEPPERWORLD HOT SHOP"
-			}
-		}, {
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [
 					11.5729654,
 					48.1304506
 				]
